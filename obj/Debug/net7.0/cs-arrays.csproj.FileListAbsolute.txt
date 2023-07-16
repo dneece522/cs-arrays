@@ -1,0 +1,15 @@
+/Users/drewneece/code/personal-projects/cs-arrays/bin/Debug/net7.0/cs-arrays
+/Users/drewneece/code/personal-projects/cs-arrays/bin/Debug/net7.0/cs-arrays.deps.json
+/Users/drewneece/code/personal-projects/cs-arrays/bin/Debug/net7.0/cs-arrays.runtimeconfig.json
+/Users/drewneece/code/personal-projects/cs-arrays/bin/Debug/net7.0/cs-arrays.dll
+/Users/drewneece/code/personal-projects/cs-arrays/bin/Debug/net7.0/cs-arrays.pdb
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.csproj.AssemblyReference.cache
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.AssemblyInfoInputs.cache
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.AssemblyInfo.cs
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.csproj.CoreCompileInputs.cache
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.dll
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/refint/cs-arrays.dll
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.pdb
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/cs-arrays.genruntimeconfig.cache
+/Users/drewneece/code/personal-projects/cs-arrays/obj/Debug/net7.0/ref/cs-arrays.dll
